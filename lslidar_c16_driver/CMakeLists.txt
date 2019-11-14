@@ -21,7 +21,7 @@ catkin_package(
     roscpp diagnostic_updater nodelet
     lslidar_c16_msgs
   DEPENDS
-    boost
+    Boost
 )
 
 include_directories(
